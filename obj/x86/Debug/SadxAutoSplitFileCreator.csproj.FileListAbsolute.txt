@@ -1,0 +1,10 @@
+C:\Users\Veritas\Documents\Visual Studio 2012\Projects\SadxAutoSplitFileCreator\SadxAutoSplitFileCreator\bin\x86\Debug\SadxAutoSplitFileCreator.exe.config
+C:\Users\Veritas\Documents\Visual Studio 2012\Projects\SadxAutoSplitFileCreator\SadxAutoSplitFileCreator\bin\x86\Debug\SadxAutoSplitFileCreator.exe
+C:\Users\Veritas\Documents\Visual Studio 2012\Projects\SadxAutoSplitFileCreator\SadxAutoSplitFileCreator\bin\x86\Debug\SadxAutoSplitFileCreator.pdb
+C:\Users\Veritas\Documents\Visual Studio 2012\Projects\SadxAutoSplitFileCreator\SadxAutoSplitFileCreator\bin\x86\Debug\MetroFramework.dll
+C:\Users\Veritas\Documents\Visual Studio 2012\Projects\SadxAutoSplitFileCreator\SadxAutoSplitFileCreator\obj\x86\Debug\SadxAutoSplitFileCreator.csprojResolveAssemblyReference.cache
+C:\Users\Veritas\Documents\Visual Studio 2012\Projects\SadxAutoSplitFileCreator\SadxAutoSplitFileCreator\obj\x86\Debug\SadxAutoSplitFileCreator.Form1.resources
+C:\Users\Veritas\Documents\Visual Studio 2012\Projects\SadxAutoSplitFileCreator\SadxAutoSplitFileCreator\obj\x86\Debug\SadxAutoSplitFileCreator.Properties.Resources.resources
+C:\Users\Veritas\Documents\Visual Studio 2012\Projects\SadxAutoSplitFileCreator\SadxAutoSplitFileCreator\obj\x86\Debug\SadxAutoSplitFileCreator.csproj.GenerateResource.Cache
+C:\Users\Veritas\Documents\Visual Studio 2012\Projects\SadxAutoSplitFileCreator\SadxAutoSplitFileCreator\obj\x86\Debug\SadxAutoSplitFileCreator.exe
+C:\Users\Veritas\Documents\Visual Studio 2012\Projects\SadxAutoSplitFileCreator\SadxAutoSplitFileCreator\obj\x86\Debug\SadxAutoSplitFileCreator.pdb
